@@ -1,0 +1,7 @@
+body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial;}
+.container{max-width:720px;margin:40px auto;padding:0 16px}
+textarea{width:100%;padding:8px;font-size:14px}
+button{margin-top:8px;padding:8px 12px}
+ul{list-style:none;padding:0}
+li{border-bottom:1px solid #eee;padding:10px 0}
+small{color:#666}
